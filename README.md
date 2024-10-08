@@ -1,2 +1,1 @@
-# Mandy-webscrapper
-Web Scraping and cleaning techniques of world films gross earnings of html tables.
+Web scrapping techniques and cleaning of world film gross earnings
