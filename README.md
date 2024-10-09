@@ -9,6 +9,7 @@
 - [References](#references)
 
 ### Project Overview
+---
 This is a simple python web scrapping project that seeks to demonstrate clear procedures to get html data(tables) from websites and web pages of organisations who permit this process. The html tags were identified with their headers, cleaned and read with pandas dataframe to give it a better table structure before exporting as a CSV file. This also helps data scientists and analyst to search for original data themselves.
 
 ### Data Source
