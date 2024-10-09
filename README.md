@@ -49,7 +49,7 @@ The following actions and steps were executed on this web scrapping exercise:
    df.to_csv(r'C:\Users\HP ELITEBOOK 840 G3\Desktop\Mandy programs/company.csv', index=False)
    ```
 ### Conclusion and Recommendation
-Though web scrapping is not a practice widely accepted and allowed for all websites and pages, it can be a poweful skillset to pull out data without having to depend on other sources or personell for a dataset. By mastering the usage of these libraries and some coding synthax this process can be done seemlessly especially if permission is granted by a webpage. Check out for full python synthax for this project and exercise.
+Though web scrapping is not a practice widely accepted and allowed for all websites and pages, it can be a poweful skillset to pull out data without having to depend on other sources or personell for a dataset. By mastering the usage of these libraries and some coding synthax this process can be done seemlessly especially if permission is granted by a webpage. Check out for full python syntax for this project and exercise.
 
 ### References
 - [WIKIPEDIA](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
